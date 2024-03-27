@@ -1,6 +1,6 @@
 module.exports = {
   TOKEN: "",
-  ownerID: ["725620582942507065", ""],
+  ownerID: ["1004206704994566164", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
