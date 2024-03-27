@@ -1,6 +1,6 @@
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  ownerID: ["725620582942507065", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
@@ -41,8 +41,8 @@ module.exports = {
       leaveOnFinish: false,
       leaveOnStop: false,
       leaveOnEmpty: {
-        status: true,
-        cooldown: 10000000,
+        status: false,
+        cooldown: 9999999999999999999999999999999999999999999999,
       },
 
     },
