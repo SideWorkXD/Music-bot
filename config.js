@@ -13,7 +13,7 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCbOkgPMbbKnYad87C_AYRPw",
+    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
   },
 
   voteManager: {
@@ -41,8 +41,8 @@ module.exports = {
       leaveOnFinish: false,
       leaveOnStop: false,
       leaveOnEmpty: {
-        status: false,
-        cooldown: 9999999999999999999999999999999999999999999999,
+        status: true,
+        cooldown: 10000000,
       },
 
     },
