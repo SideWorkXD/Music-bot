@@ -13,7 +13,7 @@ module.exports = async (client, queue, song) => {
           url: "https://discord.gg/FUEHs7RCqz",
         })
         .setDescription(
-          `\n ‎ \n▶️ **Details :** **${song?.name}**\n▶️ **Enjoy the Ultimate Music Experience. ** \n▶️ **If link breaks playback try to give query.**`,
+          `\n ‎ \n <a:loading:859462737536483328> **Details :** **${song?.name}**\n▶️ **Enjoy the Ultimate Music Experience. ** \n▶️ **If link breaks playback try to give query.**`,
         )
         .setImage(queue.songs[0].thumbnail)
         .setColor("#FF0000")
